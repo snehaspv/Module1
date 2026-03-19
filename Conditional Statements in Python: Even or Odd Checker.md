@@ -19,7 +19,6 @@ if a%2==0
 else: 
     print("ODD")
 ```
-
 ## Output
 <img width="717" height="188" alt="image" src="https://github.com/user-attachments/assets/1796f1c2-42f9-4966-a835-d128e783b18c" />
 
